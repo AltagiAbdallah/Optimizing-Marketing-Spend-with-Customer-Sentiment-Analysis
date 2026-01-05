@@ -26,11 +26,11 @@ Marketing teams often track clicks and conversions but ignore the *quality* of t
 
 ### 1. Sentiment Distribution by Campaign
 Distinct separation shows that `CAM-INFLUENCER` drives significantly more negative sentiment than other channels.
-![Sentiment Boxplot](images/sentiment_boxplot.png)
+![Sentiment Boxplot](https://github.com/AltagiAbdallah/Optimizing-Marketing-Spend-with-Customer-Sentiment-Analysis/blob/2ac303a747d11bb6b501c6ed8b0ed57a17c36551/Charts/Sentiment%20Boxplot.png)
 
 ### 2. Marketing Efficiency: Wasted Spend
 Visualizing the financial impact of negative reviews.
-![Wasted Spend Bar Chart](images/wasted_spend.png)
+![Wasted Spend Bar Chart](https://github.com/AltagiAbdallah/Optimizing-Marketing-Spend-with-Customer-Sentiment-Analysis/blob/2ac303a747d11bb6b501c6ed8b0ed57a17c36551/Charts/Wasted%20Spend%20Bar%20Chart.png)
 
 ## How to Run
 1.  **Clone the repository:**
